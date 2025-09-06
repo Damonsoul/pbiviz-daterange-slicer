@@ -4,9 +4,9 @@
 
 ---
 
-## <a name="english-version"></a> English 
 
-# Date Range Slicer for Power BI
+
+#  <a name="english-version"></a> Date Range Slicer for Power BI
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)[![Latest Release](https://img.shields.io/github/v/release/Damonsoul/pbiviz-daterange-slicer)](https://github.com/Damonsoul/pbiviz-daterange-slicer/releases)
 
@@ -73,11 +73,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## <a name="chinese-version"></a> 中文
 
 
 
-# Power BI 日期范围切片器
+# <a name="chinese-version"></a> Power BI 日期范围切片器
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 [![Latest Release](https://img.shields.io/github/v/release/Damonsoul/pbiviz-daterange-slicer)](https://github.com/Damonsoul/pbiviz-daterange-slicer/releases)
