@@ -12,7 +12,7 @@
 
 A simple, intuitive, and highly customizable date range slicer visual for Microsoft Power BI. This visual allows users to easily filter their reports by selecting a start and end date from calendar inputs.
 
-![Screenshot of the Visual](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeSlicer_screenshot.png) 
+<img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeSlicer_screenshot.png" width="400" />
 
 
 ## ✨ Features
@@ -20,11 +20,15 @@ A simple, intuitive, and highly customizable date range slicer visual for Micros
 *   **Intuitive Date Selection**: Provides separate input fields for start and end dates, complete with familiar calendar pop-ups.
 *   **One-Click Clear Filter**: A convenient button appears on hover to instantly clear the date filter and reset to the full range.
 *   **Dynamic Default Dates**: Set a default start date, end date, or both using measures, allowing for dynamic filtering based on your data model (e.g., show the last 30 days by default).
-    ![DateRangeMeasureConfig](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeMeasureConfig.png)
+
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeMeasureConfig.png" width="300" />
+
 *   **Fully Customizable Appearance**:
     *   **Header**: Toggle visibility, customize the title text, font color, and text size.
     *   **Date Inputs**: Control the font color, text size, background color, and border color to match your report's theme.
-    ![DateRangeCardConfig](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeCardConfig.png)
+
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeCardConfig.png" width="300" />
+    
 *   **Accessibility Ready**: Supports Power BI's high-contrast modes for better readability.
 *   **Localized**: Available in English and Chinese (中文).
 
@@ -61,7 +65,9 @@ This visual is developed and maintained by **Damon Chen**. I provide professiona
 Feel free to reach out for collaboration or inquiries:
 
 *   **wechat**: 
-    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.png" width="150" />
+
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.png" width="200" />
+
 *   **GitHub**: [@Damonsoul](https://github.com/Damonsoul)
 *   **Bilibili**: [Space](https://m.bilibili.com/space/217497711)
 *   **Email**: `chenmaowei96@gmail.com`
@@ -85,7 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 一个为 Microsoft Power BI 设计的简单、直观且高度可定制的日期范围切片器视觉对象。该视觉对象允许用户通过日历输入框轻松地选择开始和结束日期，从而对报告进行筛选。
 
-![视觉对象截图](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeSlicer_screenshot.png)
+<img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeSlicer_screenshot.png" width="400" />
 
 
 ## ✨ 功能特性
@@ -93,11 +99,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 *   **直观的日期选择**: 提供独立的开始日期和结束日期输入框，并配有用户熟悉的日历弹出窗口。
 *   **一键清除筛选**: 鼠标悬停时会出现一个便捷的清除按钮，可立即清除日期筛选并恢复到完整范围。
 *   **动态默认日期**: 可通过度量值设置默认的开始日期、结束日期或两者，从而实现基于数据模型的动态筛选（例如：默认显示最近30天）。
-    ![DateRangeMeasureConfig](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeMeasureConfig.png)
+
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeMeasureConfig.png" width="300" />
+    
 *   **完全可定制的外观**:
     *   **标题**: 可切换可见性、自定义标题文本、字体颜色和大小。
     *   **日期输入框**: 可控制字体颜色、文本大小、背景颜色和边框颜色，以匹配您报告的主题。
-    ![DateRangeCardConfig](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeCardConfig.png)
+
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/DateRangeCardConfig.png" width="300" />
+
 *   **辅助功能支持**: 支持 Power BI 的高对比度模式，以获得更好的可读性。
 *   **本地化**: 支持英语 (English) 和中文 (中文)。
 
@@ -134,7 +144,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 欢迎通过以下方式联系我进行合作或咨询：
 
 *   **微信公众号**: 
-    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.png" width="150" />
+
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.png" width="200" />
+
 *   **GitHub**: [@Damonsoul](https://github.com/Damonsoul)
 *   **Bilibili**: [个人空间](https://m.bilibili.com/space/217497711)
 *   **邮箱**: `chenmaowei96@gmail.com`
