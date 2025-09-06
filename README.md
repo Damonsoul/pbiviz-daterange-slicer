@@ -61,7 +61,7 @@ This visual is developed and maintained by **Damon Chen**. I provide professiona
 Feel free to reach out for collaboration or inquiries:
 
 *   **wechat**: 
-    ![wechat](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.jpg)
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.png" width="150" />
 *   **GitHub**: [@Damonsoul](https://github.com/Damonsoul)
 *   **Bilibili**: [Space](https://m.bilibili.com/space/217497711)
 *   **Email**: `chenmaowei96@gmail.com`
@@ -134,7 +134,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 欢迎通过以下方式联系我进行合作或咨询：
 
 *   **微信公众号**: 
-    ![微信公众号](https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.jpg)
+    <img src="https://raw.githubusercontent.com/Damonsoul/pbiviz-daterange-slicer/main/assets/wechat.png" width="150" />
 *   **GitHub**: [@Damonsoul](https://github.com/Damonsoul)
 *   **Bilibili**: [个人空间](https://m.bilibili.com/space/217497711)
 *   **邮箱**: `chenmaowei96@gmail.com`
